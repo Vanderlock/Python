@@ -46,9 +46,9 @@ def parse(html):
 def send_message(parsed_text,counted_url):
 
     mail1 = "w1dfqk5n@gmail.com"
-    pass1 = "Pfhe,f228"
+    pass1 = "password"
     mail2 = "chervyachok.durachok@gmail.com"
-    pass2 = "14882281488228"
+    pass2 = "password"
     send_to = "nohi410yehu@post.wordpress.com"
     counter = counted_url
 
